@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0%;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    padding: 0 50px 0 5px;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.link{
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.habilidades{
+    text-decoration: none;
+    color: black;
+}
+
+#logo {
+    width: 10vh;
+    
+
+}
+
+.main {
+    display: flex;
+    background-color: rgba(174, 195, 243, 0.392);
+    
+}
+
+.matemasie-regular {
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5.5vh;
+    
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    justify-content: center;
+
+}
+
+button{
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(129, 179, 216);
+    border-radius: 5px;
+    color: white;
+}
+
+  
